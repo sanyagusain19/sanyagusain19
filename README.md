@@ -10,7 +10,7 @@ AI & ML Student • Python Developer • Building & Learning Every Day
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 - 🎓 B.Tech Student passionate about AI and emerging technologies
 - 🐍 Building projects with Python
@@ -21,7 +21,7 @@ AI & ML Student • Python Developer • Building & Learning Every Day
 
 ---
 
-## ⚡ Terminal Snapshot
+##  Terminal Snapshot
 
 ```bash
 $ whoami
@@ -77,7 +77,7 @@ Build. Learn. Improve. Repeat.
 
 ---
 
-## 🚀 Current Learning Journey
+##  Current Learning Journey
 
 ```text
 Python           ████████████ 100%
@@ -90,7 +90,7 @@ Web Development  ███░░░░░░░░░ 30%
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics 📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanyagusain19&show_icons=true&theme=tokyonight" />
@@ -116,7 +116,7 @@ Web Development  ███░░░░░░░░░ 30%
 
 ---
 
-## 📌 Featured Project Areas
+##  Featured Project Areas
 
 - 🤖 Machine Learning Projects
 - 📊 Data Analysis & Visualization
@@ -127,7 +127,7 @@ Web Development  ███░░░░░░░░░ 30%
 
 ---
 
-## 💭 Philosophy
+##  Philosophy
 
 ```python
 while learning:
