@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Saniya</h1>
+<h1 align="center">Hi,  Myself Saniya</h1>
 
 <h3 align="center">
 AI & ML Student • Python Developer • Building & Learning Every Day
