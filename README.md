@@ -5,19 +5,19 @@ AI & ML Student • Python Developer • Building & Learning Every Day
 </h3>
 
 <p align="center">
-  Exploring Artificial Intelligence, Machine Learning, Deep Learning, FastAPI, and Web Development 🚀
+  Exploring Artificial Intelligence, Machine Learning, Deep Learning, FastAPI, and Web Development.
 </p>
 
 ---
 
 ##  About Me
 
-- 🎓 B.Tech Student passionate about AI and emerging technologies
-- 🐍 Building projects with Python
-- 🤖 Learning Machine Learning and Deep Learning
-- 🌐 Exploring Web Development and FastAPI
-- 📊 Interested in Data Science, AI Applications, and Automation
-- 📚 Constantly improving through projects and hands-on learning
+-  B.Tech Student passionate about AI and emerging technologies
+-  Building projects with Python
+-  Learning Machine Learning and Deep Learning
+-  Exploring Web Development and FastAPI
+-  Interested in Data Science, AI Applications, and Automation
+-  Constantly improving through projects and hands-on learning
 
 ---
 
@@ -118,12 +118,12 @@ Web Development  ███░░░░░░░░░ 30%
 
 ##  Featured Project Areas
 
-- 🤖 Machine Learning Projects
-- 📊 Data Analysis & Visualization
-- 🌐 FastAPI Applications
-- 🐍 Python Automation
-- 🧠 Deep Learning Experiments
-- 💡 AI-Powered Solutions
+-  Machine Learning Projects
+-  Data Analysis & Visualization
+-  FastAPI Applications
+-  Python Automation
+-  Deep Learning Experiments
+-  AI-Powered Solutions
 
 ---
 
