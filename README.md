@@ -82,7 +82,7 @@ Build. Learn. Improve. Repeat.
 ```text
 Python           ████████████ 100%
 Data Analysis    █████████░░░ 80%
-Machine Learning ███████░░░░░ 80%
+Machine Learning █████████░░░80%
 Deep Learning    ███░░░░░░░░░ 30%
 FastAPI          ██████░░░░░░ 59%
 ```
