@@ -15,7 +15,7 @@ AI & ML Student • Python Developer • Building & Learning Every Day
 -  B.Tech Student passionate about AI and emerging technologies
 -  Building projects with Python
 -  Learning Machine Learning and Deep Learning
--  Exploring Web Development and FastAPI
+-  Exploring FastAPI
 -  Interested in Data Science, AI Applications, and Automation
 -  Constantly improving through projects and hands-on learning
 
