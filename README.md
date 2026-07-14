@@ -91,17 +91,13 @@ FastAPI          ██████░░░░░░ 59%
 
 ##  GitHub Statistics 📈
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyagusain19&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyagusain19&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyagusain19&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
