@@ -130,6 +130,7 @@ while learning:
     make_mistakes()
     improve_skills()
     stay_consistent()
+    stay_curious()
 ```
 
 ---
