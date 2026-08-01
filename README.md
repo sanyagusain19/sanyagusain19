@@ -83,7 +83,7 @@ Build. Learn. Improve. Repeat.
 Python           ████████████ 100%
 Data Analysis    █████████░░░ 80%
 Machine Learning █████████░░░80%
-Deep Learning    ███░░░░░░░░░ 30%
+Deep Learning    █████░░░░░░░ 45%
 FastAPI          ██████░░░░░░ 59%
 ```
 
