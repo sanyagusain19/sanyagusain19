@@ -138,7 +138,7 @@ while learning:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/sanyagusain
-- LinkedIn: https://www.linkedin.com/in/saniya-gusain-493a2b415?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: https://www.linkedin.com/in/saniya-gusain-493a2b415?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
