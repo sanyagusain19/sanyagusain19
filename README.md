@@ -17,7 +17,7 @@ AI & ML Student • Data Science Enthusiast • Building & Learning Every Day
 -  Learning Machine Learning and Deep Learning
 -  Exploring FastAPI
 -  Interested in Data Science, AI Applications, and Automation
--  Constantly improving through projects and hands-on learning
+-  Constantly improving through projects and constant learning
 
 ---
 
