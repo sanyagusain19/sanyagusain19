@@ -1,7 +1,7 @@
 <h1 align="center">Hi,  Myself Saniya</h1>
 
 <h3 align="center">
-AI & ML Student • Python Developer • Building & Learning Every Day
+AI & ML Student • Data Science Enthusiast • Building & Learning Every Day
 </h3>
 
 <p align="center">
