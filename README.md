@@ -42,6 +42,7 @@ Artificial Intelligence
 Data Science
 Automation
 Backend Development
+LLMs and RAG
 
 $ goal
 Build real-world AI applications and grow as an engineer
