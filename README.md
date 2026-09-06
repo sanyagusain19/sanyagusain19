@@ -13,7 +13,7 @@ AI & ML Student • Data Science Enthusiast • Building & Learning Every Day
 ##  About Me
 
 -  B.Tech Student passionate about AI and emerging technologies
--  Building projects with Python
+-  Building projects with AI
 -  Learning Machine Learning and Deep Learning
 -  Exploring FastAPI
 -  Interested in Data Science, AI Applications, and Automation
